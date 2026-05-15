@@ -1,2 +1,2 @@
 # Shaik-Fayaz-Ahmed
-Data analyst
+Technical analysis
